@@ -1,0 +1,11 @@
+.contact--bg::before  { 
+        content: '';
+        position: absolute;
+        width: 400px;
+        height: 400px;
+        background-image: url('../../assets/images/div.png');
+        background-size: 100% 100%;
+        left: 50%;
+        transform: translateX(-110%);
+        
+}
